@@ -26,5 +26,8 @@
     "@blitzjs/installer": "0.17.0",
     "ast-types": "0.13.3",
     "jscodeshift": "0.10.0"
+  },
+  "devDependencies": {
+    "@types/jscodeshift": "0.7.1"
   }
 }
